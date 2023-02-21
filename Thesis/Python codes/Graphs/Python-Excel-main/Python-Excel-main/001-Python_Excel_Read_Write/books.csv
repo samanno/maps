@@ -1,0 +1,7 @@
+bookID,title,authors,average_rating,isbn,isbn13,language_code,  num_pages,ratings_count,text_reviews_count,publication_date,publisher
+1,The Ultimate Hitchhiker's Guide: Five Complete Novels and One Story (Hitchhiker's Guide to the Galaxy  #1-5),Douglas Adams,4.38,517226952,9.78E+12,eng,815,3628,254,11/01/2005,Gramercy Books
+2,The Ultimate Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy  #1-5),Douglas Adams,4.38,345453743,9.78E+12,eng,815,249558,4080,4/30/2002,Del Rey Books
+3,The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy  #1),Douglas Adams,4.22,1400052920,9.78E+12,eng,215,4930,460,08/03/2004,Crown
+4,The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy  #1),Douglas Adams/Stephen Fry,4.22,739322206,9.78E+12,eng,6,1266,253,3/23/2005,Random House Audio
+5,The Ultimate Hitchhiker's Guide (Hitchhiker's Guide to the Galaxy  #1-5),Douglas Adams,4.38,517149257,9.78E+12,eng,815,2877,195,1/17/1996,Wings Books
+6,A Short History of Nearly Everything,Bill Bryson,4.21,076790818X,9.78E+12,eng,544,248558,9396,9/14/2004,Broadway Books

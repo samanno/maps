@@ -1,0 +1,79 @@
+Descrizione attività,RS NP (t),RS P (t),Totale (t)
+"01 - Coltivazioni agricole e produzione di prodotti animali, caccia e servizi connessi",24.470,1.648,26.118
+02 - Silvicoltura ed utilizzo di aree forestali,45,2,47
+03 - Pesca e acquacoltura,778,2,780
+05 - Estrazione di carbone (esclusa torba),54,-,54
+06 - Estrazione di petrolio greggio e di gas naturale,3.319,153,3.472
+08 - Altre attività di estrazione di minerali da cave e miniere,5.273,168,5.441
+09 - Attività dei servizi di supporto all'estrazione,162.851,50,162.901
+"10, 11 - Industria alimentare e delle bevande",405.568,2.709,408.277
+12 - Industria del tabacco,154,1,155
+13 - Industria tessile,27.381,2.225,29.606
+14 - Confezioni articoli di abbigliamento. Confezione di articoli in pelle e pelliccia,16.232,535,16.767
+15 - Fabbricazione di articoli in pelle e simili,231.857,2.952,234.809
+"16 - Industria del legno e dei prodotti in legno e sughero, di articoli in paglia e materiali da intreccio",83.543,1.511,85.054
+17 - Fabbricazione di carta e di prodotti in carta,246.230,2.896,249.126
+18 - Stampa e riproduzione di supporti registrati,58.569,6.139,64.708
+"19 - Raffinerie petrolio, fabbricazione coke",2.312,4.046,6.358
+20 - Fabbricazione di prodotti chimici,104.883,48.870,153.753
+21 - Fabbricazione di prodotti farmaceutici di base e preparati,13.192,99.112,112.304
+22 - Industria gomma e materie plastiche,112.232,12.043,124.275
+23 - Industria minerali non metalliferi,627.759,8.255,636.014
+24 - Industria metallurgica,713.476,105.133,818.609
+25 - Fabbricazione di prodotti in metallo (escluse macchinari e attrezzature),616.735,80.084,696.819
+26 - Fabbricazione di computer e prodotti di elettronica e ottica. Apparecchi elettromedicali di misurazione e orologi,6.206,3.673,9.879
+27 - Fabbricazione di apparecchiature elettriche e per uso domestico non elettriche,66.182,11.685,77.867
+28 - Fabbricazione di macchinari e apparecchiature n.c.a.,161.912,23.776,185.688
+29 - Fabbricazione autoveicoli rimorchi e semirimorchi,12.784,1.443,14.227
+30 - Fabbricazione di altri mezzi di trasporto,7.055,1.831,8.886
+31 - Fabbricazione di mobili,259.948,4.410,264.358
+32 - Altre industrie manifatturiere,21.657,23.338,44.995
+"33 - Riparazione, manutenzione e installazione macchine e apparecchiature",12.942,5.163,18.105
+"35 - Fornitura di energia elettrica, gas, vapore e aria",182.793,3.171,185.964
+"36 - Raccolta, trattamento e fornitura di acqua",11.437,147,11.584
+37 - Gestione delle reti fognarie,644.107,16.559,660.666
+"38 - Attività di raccolta, trattamento e smaltimento dei rifiuti. Recupero dei materiali",3.342.465,394.383,3.736.848
+39 - Attività di risanamento e altri servizi di gestione dei rifiuti,124.709,51.489,176.198
+"41, 42, 43 - Costruzioni",7.023.726,50.596,7.074.322
+45 - Commercio all'ingrosso e al dettaglio e riparazione di autoveicoli e motocicli,94.886,170.829,265.715
+46 - Commercio all'ingrosso (escluso quello di autoveicoli e di motocicli),558.033,12.563,570.596
+47 - Commercio al dettaglio (escluso quello di autoveicoli e di motocicli),14.194,1.869,16.063
+49 - Trasporto terrestre e trasporto mediante condotte,70.427,8.224,78.651
+50 - Trasporto marittimo e per vie d'acqua,334,1.333,1.667
+51 - Trasporto aereo,8,9,17
+52 - Magazzinaggio e attività di supporto ai trasporti,23.969,4.254,28.223
+53 - Servizi postali e attività di corriere,104,1,105
+55 - Alloggio,5.300,128,5.428
+56 - Attività dei servizi di ristorazione,7.089,50,7.139
+58 - Attività editoriali,795,23,818
+"59 - Attività di produzione cinematografica, di video e di programmi televisivi, di registrazioni musicali e sonore",4,-,4
+61 - Telecomunicazioni,577,217,794
+"62 - Produzione di software, consulenza informatica e attività connesse",90,11,101
+63 - Attività dei servizi d'informazione e altri servizi informatici,78,4,82
+64 - Attività di servizi finanziari (escluse le assicurazioni e i fondi pensione),174,4,178
+66 - Attività ausiliarie dei servizi finanziari e delle attività assicurative,-,1,1
+68 - Attività immobiliari,439,141,580
+69 - Attività legali e contabilità,25,3,28
+70 - Attività di direzione aziendale e di consulenza gestionale,129,13,142
+71 - Attività degli studi di architettura e d'ingegneria. Collaudi ed analisi tecniche,1.571,748,2.319
+72 - Ricerca scientifica e sviluppo,1.192,135,1.327
+73 - Pubblicità e ricerche di mercato,530,6,536
+"74 - Altre attività professionali, scientifiche e tecniche",333,133,466
+75 - Servizi veterinari,-,65,65
+77 - Attività di noleggio e leasing operativo,1.254,314,1.568
+"79 - Attività dei servizi delle agenzie di viaggio, dei tour operator e servizi di prenotazione e attività connesse",2,4,6
+80 - Servizi di vigilanza e investigazione,29,5,34
+81 - Attività di servizi per edifici e paesaggio,7.495,4.016,11.511
+82 - Attività di supporto per le funzioni d'ufficio e altri servizi di supporto alle imprese,3.839,105,3.944
+84 - Amministrazione pubblica e difesa. Assicurazione sociale obbligatoria,14.207,732,14.939
+85 - Istruzione,134,321,455
+"86, 87, 88 - Pubblica amministrazione, istruzione e sanità",2.597,11.647,14.244
+"90 - Attività creative, artistiche e di intrattenimento",410,10,420
+"91 - Attività di biblioteche, archivi, musei ed altre attività culturali",61,1,62
+"92 - Attività riguardanti le lotterie, le scommesse, le case da gioco",45,6,51
+"93 - Attività sportive, di intrattenimento e di divertimento",1.721,47,1.768
+94 - Attività di organizzazioni associative,156,50,206
+95 - Riparazione di computer e di beni per uso personale e per la casa,348,67,415
+96 - Altre attività di servizi per la persona,4.702,168,4.870
+ND - Attività ISTAT non determinata,3.936,507,4.443
+Totale,16.156.053,1.188.962,17.345.015
